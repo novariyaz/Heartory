@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/emotion",
+            "destination": "/api/emotion"
+        }
+    ],
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "framework": "vite"
+}
